@@ -1,0 +1,241 @@
+﻿Ano;Mês;Município;Área Plantada (ha);Área Colhida (ha);Produção (ton);Produto
+2023;Janeiro;Manaus;173.64;158.09;460.17;Banana
+2023;Fevereiro;Manaus;216.53;177.28;447.63;Cupuaçu
+2023;Março;Manaus;110.23;103.42;236.63;Cacau
+2023;Abril;Manaus;450.53;351.05;539.9;Arroz
+2023;Maio;Manaus;129.34;126.98;297.07;Arroz
+2023;Junho;Manaus;152.8;148.42;240.81;Cacau
+2023;Julho;Manaus;281.57;252.32;493.89;Cupuaçu
+2023;Agosto;Manaus;440.24;347.44;963.13;Arroz
+2023;Setembro;Manaus;136.69;114.09;298.56;Banana
+2023;Outubro;Manaus;69.71;54.07;148.39;Cacau
+2023;Novembro;Manaus;468.73;333.28;652.95;Cupuaçu
+2023;Dezembro;Manaus;373.54;349.75;744.96;Mandioca
+2023;Janeiro;Parintins;308.12;236.89;579.04;Soja
+2023;Fevereiro;Parintins;306.1;292.31;740.44;Milho
+2023;Março;Parintins;71.29;57.21;106.04;Banana
+2023;Abril;Parintins;422.22;330.56;634.06;Pimenta
+2023;Maio;Parintins;273.88;206.11;429.08;Feijão
+2023;Junho;Parintins;404.61;287.88;552.92;Milho
+2023;Julho;Parintins;123.02;87.06;188.59;Açaí
+2023;Agosto;Parintins;192.18;168.8;384.45;Açaí
+2023;Setembro;Parintins;283.05;239.77;664.33;Soja
+2023;Outubro;Parintins;236.01;213.91;412.89;Cacau
+2023;Novembro;Parintins;294.97;250.79;708.51;Arroz
+2023;Dezembro;Parintins;293.26;224.54;490.66;Milho
+2023;Janeiro;Itacoatiara;482.01;448.45;798.5;Cupuaçu
+2023;Fevereiro;Itacoatiara;60.59;52.79;121.06;Banana
+2023;Março;Itacoatiara;203.01;163.68;247.59;Pimenta
+2023;Abril;Itacoatiara;110.36;85.52;169.04;Cacau
+2023;Maio;Itacoatiara;397.43;310.91;506.85;Açaí
+2023;Junho;Itacoatiara;496.55;441.72;840.97;Milho
+2023;Julho;Itacoatiara;72.29;60.09;92.51;Mandioca
+2023;Agosto;Itacoatiara;290.93;218.75;437.53;Milho
+2023;Setembro;Itacoatiara;338.78;267.28;510.21;Banana
+2023;Outubro;Itacoatiara;99.35;90.68;182.64;Banana
+2023;Novembro;Itacoatiara;75.51;52.94;153.11;Cupuaçu
+2023;Dezembro;Itacoatiara;292.47;207.07;313.0;Feijão
+2023;Janeiro;Manacapuru;420.38;411.98;1096.49;Pimenta
+2023;Fevereiro;Manacapuru;253.9;198.85;461.21;Milho
+2023;Março;Manacapuru;64.23;51.63;117.23;Mandioca
+2023;Abril;Manacapuru;393.91;376.5;922.4;Soja
+2023;Maio;Manacapuru;88.7;68.94;201.92;Soja
+2023;Junho;Manacapuru;358.46;340.97;521.17;Mandioca
+2023;Julho;Manacapuru;452.71;335.4;595.87;Milho
+2023;Agosto;Manacapuru;148.26;115.87;298.07;Arroz
+2023;Setembro;Manacapuru;302.83;298.96;572.63;Milho
+2023;Outubro;Manacapuru;101.33;90.74;174.86;Cacau
+2023;Novembro;Manacapuru;404.85;299.63;537.66;Pimenta
+2023;Dezembro;Manacapuru;402.93;316.27;638.14;Mandioca
+2023;Janeiro;Coari;70.21;64.39;159.56;Açaí
+2023;Fevereiro;Coari;414.34;356.28;984.94;Pimenta
+2023;Março;Coari;51.99;41.43;121.65;Feijão
+2023;Abril;Coari;367.07;287.6;519.13;Pimenta
+2023;Maio;Coari;133.36;105.71;206.74;Milho
+2023;Junho;Coari;260.51;236.41;678.87;Açaí
+2023;Julho;Coari;264.67;206.43;468.12;Cupuaçu
+2023;Agosto;Coari;105.43;76.22;225.41;Mandioca
+2023;Setembro;Coari;398.96;304.31;824.81;Arroz
+2023;Outubro;Coari;457.5;427.8;1153.93;Banana
+2023;Novembro;Coari;162.55;132.53;339.26;Pimenta
+2023;Dezembro;Coari;106.38;82.64;217.85;Mandioca
+2023;Janeiro;Tefé;419.96;318.37;822.09;Cacau
+2023;Fevereiro;Tefé;374.55;306.04;825.96;Milho
+2023;Março;Tefé;327.24;301.88;898.98;Feijão
+2023;Abril;Tefé;491.31;452.05;1234.09;Açaí
+2023;Maio;Tefé;165.77;147.26;240.4;Mandioca
+2023;Junho;Tefé;79.15;56.52;91.77;Banana
+2023;Julho;Tefé;455.59;378.27;656.27;Arroz
+2023;Agosto;Tefé;422.23;307.71;604.04;Banana
+2023;Setembro;Tefé;239.36;184.48;296.46;Pimenta
+2023;Outubro;Tefé;205.84;178.3;442.51;Milho
+2023;Novembro;Tefé;129.01;126.69;373.18;Mandioca
+2023;Dezembro;Tefé;494.16;486.06;1015.77;Cupuaçu
+2023;Janeiro;Humaitá;207.47;166.82;485.27;Arroz
+2023;Fevereiro;Humaitá;474.2;394.13;873.0;Pimenta
+2023;Março;Humaitá;249.68;176.93;419.11;Pimenta
+2023;Abril;Humaitá;375.26;356.29;725.53;Milho
+2023;Maio;Humaitá;184.92;164.4;490.17;Soja
+2023;Junho;Humaitá;310.37;244.28;714.79;Cupuaçu
+2023;Julho;Humaitá;233.17;190.88;365.64;Açaí
+2023;Agosto;Humaitá;142.56;113.53;316.58;Pimenta
+2023;Setembro;Humaitá;421.47;322.35;724.6;Feijão
+2023;Outubro;Humaitá;426.72;424.87;1096.76;Soja
+2023;Novembro;Humaitá;365.16;281.1;514.25;Banana
+2023;Dezembro;Humaitá;66.28;48.27;118.17;Mandioca
+2023;Janeiro;Tabatinga;227.49;206.83;376.0;Banana
+2023;Fevereiro;Tabatinga;249.17;244.51;461.33;Soja
+2023;Março;Tabatinga;315.75;231.23;638.23;Pimenta
+2023;Abril;Tabatinga;336.72;272.5;555.11;Arroz
+2023;Maio;Tabatinga;93.89;73.16;129.95;Cacau
+2023;Junho;Tabatinga;380.45;295.07;521.4;Banana
+2023;Julho;Tabatinga;285.92;266.54;527.11;Mandioca
+2023;Agosto;Tabatinga;241.5;175.73;278.07;Açaí
+2023;Setembro;Tabatinga;121.78;119.48;276.22;Milho
+2023;Outubro;Tabatinga;430.49;323.75;641.97;Arroz
+2023;Novembro;Tabatinga;206.17;180.55;429.6;Pimenta
+2023;Dezembro;Tabatinga;333.6;261.93;670.44;Banana
+2023;Janeiro;Maués;448.05;432.2;691.16;Milho
+2023;Fevereiro;Maués;221.22;200.77;580.1;Pimenta
+2023;Março;Maués;388.47;383.27;991.71;Mandioca
+2023;Abril;Maués;462.13;381.17;988.95;Feijão
+2023;Maio;Maués;371.89;339.85;550.41;Cacau
+2023;Junho;Maués;238.6;212.97;553.91;Açaí
+2023;Julho;Maués;155.31;122.2;261.95;Feijão
+2023;Agosto;Maués;120.72;102.65;300.15;Mandioca
+2023;Setembro;Maués;51.7;39.21;116.52;Arroz
+2023;Outubro;Maués;349.21;264.21;552.52;Soja
+2023;Novembro;Maués;150.72;124.52;270.29;Mandioca
+2023;Dezembro;Maués;439.08;371.36;970.62;Cupuaçu
+2023;Janeiro;São Gabriel da Cachoeira;439.43;345.43;738.72;Açaí
+2023;Fevereiro;São Gabriel da Cachoeira;434.42;308.68;745.68;Arroz
+2023;Março;São Gabriel da Cachoeira;427.54;405.49;1172.38;Banana
+2023;Abril;São Gabriel da Cachoeira;471.3;458.36;1258.48;Soja
+2023;Maio;São Gabriel da Cachoeira;473.6;366.24;876.39;Cacau
+2023;Junho;São Gabriel da Cachoeira;158.71;152.53;297.62;Arroz
+2023;Julho;São Gabriel da Cachoeira;324.86;237.59;665.8;Arroz
+2023;Agosto;São Gabriel da Cachoeira;172.58;139.45;406.09;Milho
+2023;Setembro;São Gabriel da Cachoeira;267.61;257.08;507.79;Cacau
+2023;Outubro;São Gabriel da Cachoeira;324.21;258.78;604.6;Soja
+2023;Novembro;São Gabriel da Cachoeira;172.41;128.19;307.29;Arroz
+2023;Dezembro;São Gabriel da Cachoeira;467.38;457.14;1162.3;Banana
+2024;Janeiro;Manaus;425.09;391.9;1059.0;Soja
+2024;Fevereiro;Manaus;341.47;296.27;612.54;Cupuaçu
+2024;Março;Manaus;174.84;131.68;393.3;Açaí
+2024;Abril;Manaus;370.13;296.84;707.48;Cupuaçu
+2024;Maio;Manaus;90.79;79.59;222.97;Pimenta
+2024;Junho;Manaus;95.94;77.22;227.32;Milho
+2024;Julho;Manaus;427.11;337.04;799.83;Mandioca
+2024;Agosto;Manaus;125.68;96.53;200.88;Açaí
+2024;Setembro;Manaus;182.89;168.37;450.06;Milho
+2024;Outubro;Manaus;392.3;294.3;723.36;Soja
+2024;Novembro;Manaus;125.51;96.38;258.83;Milho
+2024;Dezembro;Manaus;169.55;127.27;217.84;Pimenta
+2024;Janeiro;Parintins;381.49;328.39;555.09;Arroz
+2024;Fevereiro;Parintins;128.0;119.11;319.88;Feijão
+2024;Março;Parintins;298.25;271.07;754.46;Açaí
+2024;Abril;Parintins;180.32;171.87;512.84;Soja
+2024;Maio;Parintins;93.62;87.72;213.4;Milho
+2024;Junho;Parintins;77.03;59.98;112.82;Cacau
+2024;Julho;Parintins;249.76;218.71;345.7;Pimenta
+2024;Agosto;Parintins;161.12;149.04;436.44;Arroz
+2024;Setembro;Parintins;225.28;218.76;557.85;Cacau
+2024;Outubro;Parintins;162.41;114.53;273.35;Milho
+2024;Novembro;Parintins;284.24;217.34;550.55;Soja
+2024;Dezembro;Parintins;247.48;228.24;605.3;Pimenta
+2024;Janeiro;Itacoatiara;212.99;209.11;466.53;Arroz
+2024;Fevereiro;Itacoatiara;254.84;253.11;715.24;Milho
+2024;Março;Itacoatiara;454.08;353.3;687.9;Cacau
+2024;Abril;Itacoatiara;294.88;219.93;367.29;Arroz
+2024;Maio;Itacoatiara;66.61;49.71;140.73;Arroz
+2024;Junho;Itacoatiara;299.33;253.34;439.19;Cupuaçu
+2024;Julho;Itacoatiara;410.8;391.77;849.37;Cacau
+2024;Agosto;Itacoatiara;146.93;110.61;245.72;Arroz
+2024;Setembro;Itacoatiara;363.42;300.35;573.42;Cupuaçu
+2024;Outubro;Itacoatiara;408.62;376.96;1120.64;Pimenta
+2024;Novembro;Itacoatiara;243.59;237.68;573.09;Banana
+2024;Dezembro;Itacoatiara;251.39;204.44;483.95;Mandioca
+2024;Janeiro;Manacapuru;220.38;191.28;301.91;Pimenta
+2024;Fevereiro;Manacapuru;421.39;333.02;631.38;Cupuaçu
+2024;Março;Manacapuru;405.69;349.05;632.25;Cacau
+2024;Abril;Manacapuru;487.15;419.17;1001.19;Soja
+2024;Maio;Manacapuru;255.27;237.3;513.59;Soja
+2024;Junho;Manacapuru;153.9;107.96;263.54;Cacau
+2024;Julho;Manacapuru;400.46;338.39;656.88;Mandioca
+2024;Agosto;Manacapuru;60.78;58.45;160.63;Cacau
+2024;Setembro;Manacapuru;101.22;73.34;123.68;Banana
+2024;Outubro;Manacapuru;403.02;302.62;561.32;Mandioca
+2024;Novembro;Manacapuru;395.25;332.2;606.26;Banana
+2024;Dezembro;Manacapuru;375.53;358.11;886.37;Feijão
+2024;Janeiro;Coari;479.39;374.33;790.59;Cacau
+2024;Fevereiro;Coari;269.51;222.29;591.19;Açaí
+2024;Março;Coari;228.11;226.57;391.48;Arroz
+2024;Abril;Coari;466.48;331.61;982.31;Pimenta
+2024;Maio;Coari;223.14;169.46;506.45;Pimenta
+2024;Junho;Coari;264.63;234.8;623.27;Milho
+2024;Julho;Coari;387.05;383.46;764.87;Cacau
+2024;Agosto;Coari;228.16;160.63;412.26;Mandioca
+2024;Setembro;Coari;78.71;76.81;172.34;Feijão
+2024;Outubro;Coari;243.82;233.63;509.34;Mandioca
+2024;Novembro;Coari;332.88;249.16;445.39;Feijão
+2024;Dezembro;Coari;277.57;275.31;730.49;Feijão
+2024;Janeiro;Tefé;56.98;43.64;112.66;Mandioca
+2024;Fevereiro;Tefé;469.02;351.83;741.05;Cacau
+2024;Março;Tefé;120.93;110.2;186.05;Pimenta
+2024;Abril;Tefé;88.73;68.53;107.98;Soja
+2024;Maio;Tefé;325.13;277.13;480.64;Arroz
+2024;Junho;Tefé;218.6;195.76;411.34;Arroz
+2024;Julho;Tefé;370.55;355.59;982.1;Açaí
+2024;Agosto;Tefé;235.42;228.65;632.06;Cacau
+2024;Setembro;Tefé;231.57;198.21;510.29;Pimenta
+2024;Outubro;Tefé;274.96;206.63;454.92;Pimenta
+2024;Novembro;Tefé;186.85;168.39;285.99;Pimenta
+2024;Dezembro;Tefé;120.24;99.67;251.65;Açaí
+2024;Janeiro;Humaitá;199.99;188.78;295.01;Pimenta
+2024;Fevereiro;Humaitá;72.16;53.55;132.1;Açaí
+2024;Março;Humaitá;224.81;222.75;623.16;Milho
+2024;Abril;Humaitá;213.35;161.0;305.18;Milho
+2024;Maio;Humaitá;248.6;204.26;562.37;Feijão
+2024;Junho;Humaitá;307.37;264.57;510.27;Mandioca
+2024;Julho;Humaitá;330.07;313.27;861.05;Arroz
+2024;Agosto;Humaitá;187.16;182.72;526.32;Cupuaçu
+2024;Setembro;Humaitá;70.63;59.94;172.54;Pimenta
+2024;Outubro;Humaitá;224.83;199.33;307.92;Mandioca
+2024;Novembro;Humaitá;297.1;217.29;491.74;Feijão
+2024;Dezembro;Humaitá;413.26;326.69;495.74;Feijão
+2024;Janeiro;Tabatinga;390.51;339.14;988.18;Soja
+2024;Fevereiro;Tabatinga;156.23;138.14;359.0;Soja
+2024;Março;Tabatinga;182.4;151.27;411.64;Feijão
+2024;Abril;Tabatinga;393.12;316.2;609.0;Cupuaçu
+2024;Maio;Tabatinga;429.72;360.68;897.83;Milho
+2024;Junho;Tabatinga;357.79;311.24;657.08;Arroz
+2024;Julho;Tabatinga;452.47;361.11;649.36;Feijão
+2024;Agosto;Tabatinga;82.71;74.14;131.27;Arroz
+2024;Setembro;Tabatinga;62.07;59.47;110.88;Açaí
+2024;Outubro;Tabatinga;312.35;264.03;589.77;Arroz
+2024;Novembro;Tabatinga;276.02;271.56;734.04;Pimenta
+2024;Dezembro;Tabatinga;193.15;143.79;379.49;Açaí
+2024;Janeiro;Maués;188.06;141.93;338.79;Banana
+2024;Fevereiro;Maués;302.96;300.7;697.31;Milho
+2024;Março;Maués;204.09;176.63;510.05;Cacau
+2024;Abril;Maués;304.14;249.22;652.14;Cacau
+2024;Maio;Maués;81.3;79.92;238.35;Soja
+2024;Junho;Maués;331.33;321.36;585.67;Cupuaçu
+2024;Julho;Maués;143.95;138.51;285.11;Mandioca
+2024;Agosto;Maués;448.26;397.78;633.4;Pimenta
+2024;Setembro;Maués;483.0;345.34;596.49;Pimenta
+2024;Outubro;Maués;447.01;366.05;808.24;Açaí
+2024;Novembro;Maués;70.33;62.46;141.78;Pimenta
+2024;Dezembro;Maués;372.21;274.75;732.36;Cupuaçu
+2024;Janeiro;São Gabriel da Cachoeira;133.19;113.87;209.4;Banana
+2024;Fevereiro;São Gabriel da Cachoeira;135.3;97.39;154.65;Arroz
+2024;Março;São Gabriel da Cachoeira;495.26;454.18;1256.55;Pimenta
+2024;Abril;São Gabriel da Cachoeira;493.91;414.96;883.6;Pimenta
+2024;Maio;São Gabriel da Cachoeira;247.47;197.08;522.11;Arroz
+2024;Junho;São Gabriel da Cachoeira;404.04;301.27;737.08;Milho
+2024;Julho;São Gabriel da Cachoeira;489.13;369.25;873.74;Mandioca
+2024;Agosto;São Gabriel da Cachoeira;250.91;211.75;337.26;Milho
+2024;Setembro;São Gabriel da Cachoeira;306.5;254.87;705.83;Cacau
+2024;Outubro;São Gabriel da Cachoeira;270.89;197.07;495.86;Pimenta
+2024;Novembro;São Gabriel da Cachoeira;405.52;387.35;873.91;Cupuaçu
+2024;Dezembro;São Gabriel da Cachoeira;190.81;134.22;271.18;Arroz
